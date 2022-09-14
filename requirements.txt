@@ -33,4 +33,4 @@ uvloop==0.16.0
 watchgod==0.8.2
 websockets==10.3
 psycopg2
-json
+
